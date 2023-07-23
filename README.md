@@ -4,7 +4,7 @@
 ## WORKING VIDEO:https://youtu.be/rm5weu3Pa3U
 
 ## TASK 2: WINE QUALITY PREDICTION
-## CODE: 
+## CODE: https://github.com/ayushigeorge/bharat_intern_ML_tasks/blob/main/wine%20qt%20prediction.py
 ## WORKING VIDEO:
 
 ## TASK 3: IRIS FLOWER PREDICTION
